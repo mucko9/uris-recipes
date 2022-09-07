@@ -1,13 +1,11 @@
 * {
     background-color: wheat;
+    display: flex;
+    border: 2px solid red;
 }
 #main {
     text-align: center;
 }
 #steps {
     text-align: left;
-}
-li { 
-     display: flex;
-     border: 2px solid red;
 }
